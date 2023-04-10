@@ -1,0 +1,11 @@
+theme: jekyll-theme-cayman
+
+title: Jayanta Mondal
+description: Engineer and Researcher with expertise in Distributed Graph Databases
+
+# google_analytics:
+
+
+show_header_links: "true"
+pubs_page: publications
+serivce_page: service
