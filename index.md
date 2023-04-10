@@ -1,5 +1,3 @@
-[[Home]](index.html) 
-
 ![Portrait](images/jayanta.jpg)
 
 # Bio
