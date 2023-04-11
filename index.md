@@ -32,15 +32,15 @@ The Dropper Effect: Insights into Malware Distribution with Downloader Graph Ana
 EAGr: supporting continuous ego-centric aggregate queries over large dynamic graphs. [SIGMOD 2014](https://dl.acm.org/doi/abs/10.1145/2588555.2612182). [[pdf]](http://www.cs.umd.edu/~jayanta/papers/sigmod14.pdf). [[arXiv]](https://arxiv.org/abs/1404.6570)
 
 * Jayanta Mondal, Amol Deshpande<br>
-Stream Querying and Reasoning on Social Data. Encyclopedia of Social Network Analysis and Mining 1st Ed 2014. [[link]](https://link.springer.com/referenceworkentry/10.1007/978-1-4614-6170-8_391)
+Stream Querying and Reasoning on Social Data. Encyclopedia of Social Network Analysis and Mining. 1st Ed 2014. [[link]](https://link.springer.com/referenceworkentry/10.1007/978-1-4614-6170-8_391)
 
 * Jayanta Mondal, Amol Deshpande<br>
 Managing large dynamic graphs efficiently. [SIGMOD 2012](https://dl.acm.org/doi/abs/10.1145/2213836.2213854). [[pdf]](http://www.cs.umd.edu/~jayanta/papers/sigmod12.pdf)
 
 # Service
 ---
-## PC Member: 
-Symposium on Cloud Computing ([SoCC](https://acmsocc.org/2023/index.html)), `[2023(TBA)]`
+## PC Member
+* Symposium on Cloud Computing ([SoCC](https://acmsocc.org/2023/index.html)), `[2023(To Be Announced)]`
 
 ## Reviewer
 * International Journal on Very Large Databases ([VLDBJ](https://www.springer.com/journal/778/)) `[2014, 2018, 2021]`
