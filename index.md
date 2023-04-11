@@ -2,11 +2,10 @@
 
 # Bio
 ---
-Jayanta is an Engineer at [Azure Cosmos DB](https://azure.microsoft.com/en-us/products/cosmos-db) and was one of the founding members of [Azure Cosmos DB Graph API](https://learn.microsoft.com/en-us/azure/cosmos-db/gremlin/introduction), world's first multi-model graph database as-a-service. He has worked on all parts of the engineering stack, often extending to customer consultation, presenting at executive briefings, evangelizing the product ([Azure Friday](https://www.youtube.com/watch?v=DAF8JIUUQvI), [Cosmos DB Readiness Training](https://www.youtube.com/watch?v=dQf6hBLyL7k)).
+Jayanta is an Engineer at [Azure Cosmos DB](https://azure.microsoft.com/en-us/products/cosmos-db) and is one of the founding members of [Azure Cosmos DB Graph API](https://learn.microsoft.com/en-us/azure/cosmos-db/gremlin/introduction), world’s first multi-model graph database as-a-service. He has worked on all parts of the engineering stack, often extending to customer consultation, presenting at executive briefings, evangelizing the product ([Azure Friday](https://www.youtube.com/watch?v=DAF8JIUUQvI), [Cosmos DB Readiness Training](https://www.youtube.com/watch?v=dQf6hBLyL7k)).
 
 
-Jayanta holds a PhD in Computer Science from [University of Maryland, College Park](https://cs.umd.edu/) focusing on [real-time analysis on large dynamic graph](https://drum.lib.umd.edu/bitstream/handle/1903/18128/Mondal_umd_0117E_16841.pdf?sequence=1&isAllowed=y) under the guidance of Professor [Amol Deshpande](http://www.cs.umd.edu/~amol/). Jayanta has been an intern at [DMX Group, Microsoft Research](https://www.microsoft.com/en-us/research/group/data-management-exploration-and-mining-dmx/visitors-and-interns/). 
-Jayanta's work has been published at top-tier database conferences like SIGMOD, SIGSAC, and EDBT. He has authored book chapters on [Continous Queries on Graph-structured Data](https://link.springer.com/referenceworkentry/10.1007/978-1-4939-7131-2_391).
+Jayanta holds a PhD in Computer Science from[University of Maryland, College Park](https://cs.umd.edu/) focusing on [real-time analysis on large dynamic graph](https://drum.lib.umd.edu/bitstream/handle/1903/18128/Mondal_umd_0117E_16841.pdf?sequence=1&isAllowed=y), supervised by Professor [Amol Deshpande](http://www.cs.umd.edu/~amol/). Jayanta has been an intern at[DMX Group, Microsoft Research](https://www.microsoft.com/en-us/research/group/data-management-exploration-and-mining-dmx/visitors-and-interns/). His work has been published at top-tier database conferences like SIGMOD, SIGSAC, and EDBT. He has authored book chapters on [Continous Queries on Graph-structured Data](https://link.springer.com/referenceworkentry/10.1007/978-1-4939-7131-2_391).
 
 # Patents
 ---
@@ -18,7 +17,7 @@ Jayanta's work has been published at top-tier database conferences like SIGMOD, 
 # Publications
 ---
 * Jayanta Mondal, Siddhesh Vethe, Oliver Towers, John Pao<br>
-Building Distributed Multi-model Graph Database as a Service (Under Submission).
+Building Distributed Multi-model Graph Database as a Service (Submitted).
 
 * Jayanta Mondal, Amol Deshpande<br>
   Stream Querying and Reasoning on Social Data. Encyclopedia of Social Network Analysis and Mining. 2nd Ed. 2018. [[Link]](https://link.springer.com/referenceworkentry/10.1007/978-1-4939-7131-2_391)
