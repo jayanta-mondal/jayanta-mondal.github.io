@@ -1,43 +1,43 @@
 ![Portrait](images/jayanta.jpg)
 
 # Bio
-Jayanta is a Senior Engineer at [Azure Cosmos DB](https://azure.microsoft.com/en-us/products/cosmos-db).
+Jayanta is an Engineer at [Azure Cosmos DB](https://azure.microsoft.com/en-us/products/cosmos-db) who kickstarted Azure's journey in building world's first [multi-model graph database as-a-service](https://learn.microsoft.com/en-us/azure/cosmos-db/gremlin/introduction). He has worked on all parts of the engineering stack, often extending to customer consultation, presenting at executive briefings, evangelizing the product ([Azure Friday](https://www.youtube.com/watch?v=DAF8JIUUQvI), [Cosmos DB Readiness Training](https://www.youtube.com/watch?v=dQf6hBLyL7k)), and contributing to the OSS ecosystem.
 
 
-Jayanta holds a PhD in Computer Science from [University of Maryland, College Park](https://cs.umd.edu/). 
-His [PhD thesis](https://dl.acm.org/citation.cfm?id=2521552) research on developing scalable, ela. He has published at top-tier database conferences.
+Jayanta holds a PhD in Computer Science from [University of Maryland, College Park](https://cs.umd.edu/) focusing on [real-time analysis on large dynamic graph](https://drum.lib.umd.edu/bitstream/handle/1903/18128/Mondal_umd_0117E_16841.pdf?sequence=1&isAllowed=y) under the guidance of Professor [Amol Deshpande](http://www.cs.umd.edu/~amol/). Jayanta has been an intern at [DMX Group, Microsoft Research](https://www.microsoft.com/en-us/research/group/data-management-exploration-and-mining-dmx/visitors-and-interns/). 
+Jayanta's work has published at top-tier database conferences like SIGMOD, SIGSAC, and EDBT. He has authored book chapters on [Continous Queries on Graph-structured Data](https://link.springer.com/referenceworkentry/10.1007/978-1-4939-7131-2_391).
 
 # Patents
 
-* [US10970270B20](https://patents.google.com/patent/US10970270B2/en) - Unified data organization for multi-model distributed databases 
-* [US10191947B2](https://patents.google.com/patent/US10191947B2/en) - Partitioning advisor for online transaction processing workloads - Google Patents
-* [US20210034615A1](https://patents.google.com/patent/US20210034615A1/en) - Translating functional graph traversal language to extended structured query language - Google Patents
-* Filed - In-memory graph database with persisted storage
+* [US10970270B20](https://patents.google.com/patent/US10970270B2/en) - Unified data organization for multi-model distributed databases.
+* [US10191947B2](https://patents.google.com/patent/US10191947B2/en) - Partitioning advisor for online transaction processing workloads.
+* [US20210034615A1](https://patents.google.com/patent/US20210034615A1/en) - Translating functional graph traversal language to extended structured query language.
+* Filed - In-memory graph database with persisted storage.
 
 # Publications
 
-* Jayanta Mondal, Siddhesh Vethe, Oliver Towers, John Pao
+* Jayanta Mondal, Siddhesh Vethe, Oliver Towers, John Pao<br>
 Building Distributed Multi-model Graph Database as a Service (Under Submission).
 
-* Jayanta Mondal, Amol Deshpande
-Stream Querying and Reasoning on Social Data. Encyclopedia of Social Network Analysis and Mining. 2nd Ed. 2018
+* Jayanta Mondal, Amol Deshpande<br>
+  Stream Querying and Reasoning on Social Data. Encyclopedia of Social Network Analysis and Mining. 2nd Ed. 2018. [[Link]](https://link.springer.com/referenceworkentry/10.1007/978-1-4939-7131-2_391)
 
-* Jayanta Mondal, Amol Deshpande
-CASQD: continuous detection of activity-based subgraph pattern queries on dynamic graphs. DEBS 2016: 226-237
+* Jayanta Mondal, Amol Deshpande<br>
+CASQD: continuous detection of activity-based subgraph pattern queries on dynamic graphs. [DEBS 2016](https://dl.acm.org/doi/abs/10.1145/2933267.2933316). [[pdf]](https://drive.google.com/file/d/1TW70Xs5kslg5puW3Hvd77YPdVzs3FIkz/view)
 
-* Bum Jun Kwon , Jayanta Mondal, Jiyong Jang, Leyla Bilge, Tudor Dumitras
-The Dropper Effect: Insights into Malware Distribution with Downloader Graph Analytics. CCS 2015: 1118-1129
+* Bum Jun Kwon , Jayanta Mondal, Jiyong Jang, Leyla Bilge, Tudor Dumitras<br>
+The Dropper Effect: Insights into Malware Distribution with Downloader Graph Analytics. [CCS 2015](https://dl.acm.org/doi/abs/10.1145/2810103.2813724). [[pdf]](http://www.cs.umd.edu/~jayanta/papers/ccs15.pdf)
 
-* Jayanta Mondal, Amol Deshpande
-EAGr: supporting continuous ego-centric aggregate queries over large dynamic graphs. SIGMOD Conference 2014: 1335-1346
+* Jayanta Mondal, Amol Deshpande<br>
+EAGr: supporting continuous ego-centric aggregate queries over large dynamic graphs. [SIGMOD 2014](https://dl.acm.org/doi/abs/10.1145/2588555.2612182). [[pdf]](http://www.cs.umd.edu/~jayanta/papers/sigmod14.pdf). [[arXiv]](https://arxiv.org/abs/1404.6570)
 
-* Jayanta Mondal, Amol Deshpande
-Stream Querying and Reasoning on Social Data. Encyclopedia of Social Network Analysis and Mining 2014: 2063-2075
+* Jayanta Mondal, Amol Deshpande<br>
+Stream Querying and Reasoning on Social Data. Encyclopedia of Social Network Analysis and Mining 1st Ed 2014. [[link]](https://link.springer.com/referenceworkentry/10.1007/978-1-4614-6170-8_391)
 
-* Jayanta Mondal, Amol Deshpande
-Managing large dynamic graphs efficiently. SIGMOD Conference 2012: 145-156
+* Jayanta Mondal, Amol Deshpande<br>
+Managing large dynamic graphs efficiently. [SIGMOD 2012](https://dl.acm.org/doi/abs/10.1145/2213836.2213854). [[pdf]](http://www.cs.umd.edu/~jayanta/papers/sigmod12.pdf)
 
-# Services
+# Service
 
 ## PC Member: 
 Symposium on Cloud Computing ([SoCC](https://acmsocc.org/2023/index.html)), `[2023(TBA)]`
