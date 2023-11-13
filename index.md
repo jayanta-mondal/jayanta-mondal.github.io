@@ -1,4 +1,4 @@
-![Portrait](images/jayanta.jpg)
+![Portrait](images/jayanta.jpeg)
 
 # Bio
 ---
